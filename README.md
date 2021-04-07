@@ -1,4 +1,4 @@
-# DS4D-Alarm
+# DS4D-Alarm Project
 Group assignments for the DS4D course.</br>
 
 In Assignment 2, I used Python to analyse the alarm data from Blackwood. The angle I chose to analyse was the relationship between the characteristics of the person who called the police, the type of alarm and the time of the alarm.</br>
